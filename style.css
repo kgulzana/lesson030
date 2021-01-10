@@ -10,27 +10,22 @@
   margin-bottom: 81px;
 }
 
-.container-fluid {
-  max-width: 1173px;
-  margin: 0 auto;
-}
-
-.left {
+.hero__left {
   height: 435px;
   border: 1px solid red;
-  width: 381px;
+  /* width: 381px; */
   background-color: #d4ca69;
 }
 
-.right {
+.hero__right {
   border: 1px solid red;
-  width: 777px;
+  /* width: 777px; */
   height: 435px;
   background-color: #f4a2a2;
 }
 
 .left-1 {
-  width: 282px;
+  /* width: 282px; */
   height: 259px;
   border: 1px solid red;
   margin-top: 135px;

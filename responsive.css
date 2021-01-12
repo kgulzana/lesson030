@@ -3,11 +3,10 @@
     display: flex;
   }
 
-  .left {
-    width: 357px;
+  .hero__left {
+    margin-bottom: 20px;
   }
 
-  .right {
-    width: 357px;
+  .hero__right {
   }
 }
